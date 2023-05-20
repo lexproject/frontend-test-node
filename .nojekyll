@@ -1,0 +1,9 @@
+pwd
+/e/practicum_proect/dev/mesto-final
+
+git branch
+* main
+develop
+
+touch .nojekyll
+git add . && git commit -m "added nojekyll"
